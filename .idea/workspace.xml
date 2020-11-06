@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9d273684-6c4b-41e8-8c1c-9029dba36dac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atc_postgres/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atc_postgres/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/atc_postgres/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atc_postgres/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/hello_world.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/hello_world.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/hello_world.node" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/hello_world.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/hello_world.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/hello_world.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/obj/hello_world/hello_world.tlog/CL.12008.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/obj/hello_world/hello_world.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/obj/hello_world/hello_world.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/obj/hello_world/lib.obj" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/obj/hello_world/lib.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Release/obj/hello_world/win_delay_load_hook.obj" beforeDir="false" afterPath="$PROJECT_DIR$/build/Release/obj/hello_world/win_delay_load_hook.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +40,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jvfEJqSMjWUys5b0Fya8vpcgPE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +65,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,17 +77,49 @@
       <option name="presentableId" value="Default" />
       <updated>1604689372447</updated>
       <workItem from="1604689373773" duration="7000" />
-      <workItem from="1604689430389" duration="2889000" />
+      <workItem from="1604689430389" duration="5216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="3341" y="345" key="SettingsEditor" timestamp="1604691973431">
-      <screen x="2560" y="0" width="2560" height="1400" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604696386893">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604696386893" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1604695956713">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604695956713" />
     <state x="3341" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@2560.0.2560.1400" timestamp="1604691973431" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604696330514">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604696330514" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604696330515">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604696330515" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1604696330515">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604696330515" />
+    <state x="889" y="357" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604695974292">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="889" y="357" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1604695974292" />
   </component>
 </project>

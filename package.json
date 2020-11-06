@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"nodemon index.js\" \"npm run start --prefix atc_postgres\""
+    "dev": "concurrently \"npm i\" \"nodemon index.js\" \"npm run start --prefix atc_postgres\""
   },
   "author": "FSE team",
   "license": "ISC",
